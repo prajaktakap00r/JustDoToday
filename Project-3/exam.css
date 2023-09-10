@@ -1,0 +1,19 @@
+html,body{
+    max-width: 100%;
+    max-height: fit-content;
+
+}
+.c1{
+    height: 80px;
+    display: inline;
+}
+.c2{
+    background-color: #ADEFD1;
+    height: 80px;
+
+}
+.btn1{
+    color: white;
+    background: #00203FFF;
+    border: none;
+}
